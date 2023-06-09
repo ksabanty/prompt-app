@@ -6,10 +6,10 @@ const Home = () => {
       <h1 className="head_text text-center">
         Discover & Share
         <br className="max-md:hidden" />
-        <span className="orange_gradient text-center">AI Powered Prompts</span>
+        <span className="orange_gradient text-center">Powerful AI Prompts</span>
       </h1>
       <p className="desc text-center">
-        Promptly is an prompting tool to discover and share AI prompts
+        Promptly is a prompting tool to discover and share AI prompts
       </p>
       <Feed />
     </section>
